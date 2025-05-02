@@ -1,0 +1,61 @@
+@media only screen and (max-width: 960px) {
+  .gnb {
+    padding: 16px;
+  }
+  .gnb-menu {
+    gap: 10px;
+  }
+  .menu {
+    gap: 10px;
+  }
+  .gnb-right {
+    justify-content: flex-end;
+  }
+  .gnb-slogan {
+    display: none;
+  }
+  .contents {
+    margin-bottom: 580px;
+  }
+  .sub-slogan {
+    display: none;
+  }
+  .city {
+    display: none;
+  }
+  .contents {
+    margin-bottom: 0px;
+  }
+  /* Container Contact */
+  .container-contact {
+    padding-top: 140px;
+  }
+  .contact-top {
+    flex-direction: column;
+    gap: 40px;
+  }
+  .title-contact {
+    width: 100%;
+    font-size: 28px;
+  }
+  .contact-info {
+    width: 100%;
+  }
+  .contact-bottom {
+    flex-direction: column;
+    font-size: 13px;
+    gap: 30px;
+  }
+  .contact-additional {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+    opacity: 0.8;
+  }
+  .social {
+    gap: 10px;
+  }
+  .footer-logo img {
+    width: 160px;
+  }
+}/*# sourceMappingURL=contact-m.css.map */
