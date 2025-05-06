@@ -34,10 +34,10 @@
     font-size: 26px;
   }
   h4 {
-    font-size: 14px;
+    font-size: 16px;
   }
   h5 {
-    font-size: 12px;
+    font-size: 14px;
   }
   /* Selected Works*/
   .selected-works {
@@ -55,12 +55,12 @@
   .work-desc {
     display: flex;
     flex-direction: column;
-    padding-top: 30px;
-    gap: 20px;
+    padding-top: 20px;
+    gap: 16px;
     text-align: left;
   }
   .work-desc-title {
-    font-size: 30px;
+    font-size: 26px;
   }
   .work-desc-info {
     gap: 2px;
@@ -83,18 +83,28 @@
   }
   .project-item {
     width: calc(50% - 10px);
-    margin-bottom: 40px;
+    margin-bottom: 20px;
   }
   .project-item:hover .project-video {
     display: none;
+  }
+  .project-title {
+    margin: 16px 0 4px;
+    color: #000;
   }
   /* Contents Bottom */
   .contents-bottom {
     padding: 40px 20px;
   }
+  .title-link .icon-move {
+    width: 34px;
+    height: 34px;
+    position: relative;
+    overflow: hidden;
+  }
   /* Footer */
   .footer {
-    height: 580px;
+    height: 600px;
     padding: 40px 20px;
   }
   .footer-top {

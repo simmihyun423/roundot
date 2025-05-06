@@ -15,8 +15,8 @@
   }
   .work-desc {
     flex-direction: column;
-    padding-top: 30px;
-    gap: 30px;
+    padding-top: 20px;
+    gap: 16px;
   }
   .button-container {
     display: flex;
@@ -24,7 +24,7 @@
     width: 100%;
   }
   .button-text {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 500;
   }
   /* Project List Section */

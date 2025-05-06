@@ -51,7 +51,7 @@ h2 {
 }
 
 h3 {
-  font-size: 32px;
+  font-size: 30px;
   font-weight: 700;
   line-height: 1.2;
 }
@@ -299,7 +299,7 @@ h5 {
   -webkit-box-orient: vertical;
   overflow: hidden;
   text-overflow: ellipsis;
-  font-size: 32px;
+  font-size: 30px;
   font-weight: 600;
   line-height: 1.2;
 }
