@@ -38,37 +38,4 @@
   .project-item:hover .project-video {
     display: none;
   }
-  /* Footer */
-  .footer {
-    height: 580px;
-    padding: 40px 20px;
-  }
-  .footer-top {
-    flex-direction: column;
-    gap: 40px;
-  }
-  .title-footer {
-    width: 100%;
-    font-size: 28px;
-  }
-  .footer-info {
-    width: 100%;
-  }
-  .footer-bottom {
-    flex-direction: column;
-    font-size: 13px;
-    gap: 30px;
-  }
-  .footer-additional {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 4px;
-    opacity: 0.8;
-  }
-  .social {
-    gap: 10px;
-  }
-  .footer-logo img {
-    width: 100px;
-  }
 }/*# sourceMappingURL=works-m.css.map */

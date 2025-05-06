@@ -112,7 +112,7 @@
   }
   .footer-top {
     flex-direction: column;
-    gap: 40px;
+    gap: 26px;
   }
   .title-footer {
     width: 100%;
@@ -124,7 +124,7 @@
   .footer-bottom {
     flex-direction: column;
     font-size: 13px;
-    gap: 30px;
+    gap: 20px;
   }
   .footer-additional {
     flex-direction: column;
