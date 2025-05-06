@@ -38,11 +38,6 @@
   .project-item:hover .project-video {
     display: none;
   }
-  /* Contents Bottom */
-  .contents-bottom {
-    height: 300px;
-    padding: 40px 20px;
-  }
   /* Footer */
   .footer {
     height: 580px;
