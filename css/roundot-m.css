@@ -94,7 +94,11 @@
   }
   /* Contents Bottom */
   .contents-bottom {
-    padding: 34px 20px;
+    padding: 30px 20px;
+  }
+  .link-container {
+    padding-top: 30px;
+    border-top: 0.5px solid #000;
   }
   .title-link .icon-move {
     width: 34px;
