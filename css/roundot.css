@@ -38,20 +38,20 @@ button {
 
 h1 {
   font-size: 42px;
-  font-weight: 600;
+  font-weight: 700;
   line-height: 1.2;
   text-decoration: underline;
 }
 
 h2 {
   font-size: 38px;
-  font-weight: 400;
+  font-weight: 500;
   line-height: 1.2;
 }
 
 h3 {
   font-size: 32px;
-  font-weight: 500;
+  font-weight: 700;
   line-height: 1.2;
 }
 
@@ -299,7 +299,7 @@ h5 {
   overflow: hidden;
   text-overflow: ellipsis;
   font-size: 32px;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.2;
 }
 
