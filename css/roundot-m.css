@@ -110,7 +110,7 @@
   }
   /* Footer */
   .footer {
-    height: 600px;
+    height: 580px;
     padding: 40px 20px;
   }
   .footer-top {
@@ -132,11 +132,11 @@
   .footer-additional {
     flex-direction: column;
     align-items: flex-start;
-    gap: 4px;
+    gap: 2px;
     opacity: 0.8;
   }
   .social {
-    gap: 10px;
+    gap: 8px;
   }
   .footer-logo img {
     width: 160px;

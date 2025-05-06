@@ -23,16 +23,13 @@
     justify-content: space-between;
     width: 100%;
   }
-.button-text {
+  .button-text {
     font-size: 20px;
     font-weight: 500;
-
-    button {
-        &:hover {
-            color: #000;
-        }
-    }
-}
+  }
+  .button-text button:hover {
+    color: #000;
+  }
   /* Project List Section */
   .project-list {
     padding: 80px 20px 20px 20px;
