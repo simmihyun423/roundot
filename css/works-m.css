@@ -32,7 +32,7 @@
   }
   /* Project List Section */
   .project-list {
-    padding: 80px 20px 20px 20px;
+    padding: 100px 20px 20px 20px;
   }
   .project-item {
     width: calc(50% - 10px);

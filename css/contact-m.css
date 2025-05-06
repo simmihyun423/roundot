@@ -14,9 +14,6 @@
   .gnb-slogan {
     display: none;
   }
-  .contents {
-    margin-bottom: 580px;
-  }
   .sub-slogan {
     display: none;
   }
@@ -28,7 +25,7 @@
   }
   /* Container Contact */
   .container-contact {
-    padding-top: 140px;
+    padding-top: 100px;
   }
   .contact-top {
     flex-direction: column;
