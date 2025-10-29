@@ -79,10 +79,10 @@ document.addEventListener('DOMContentLoaded', function() {
         
         // 버튼 상태 업데이트
         function updateButtonStates() {
-            // 첫 페이지에서는 prev 버튼 비활성화 (예: 총 36페이지)
-            prevButton.disabled = currentPageNumber === 36;
-            prevButton.style.opacity = currentPageNumber === 36 ? '0.2' : '1';
-            prevButton.style.cursor = currentPageNumber === 36 ? 'default' : 'pointer';
+            // 첫 페이지에서는 prev 버튼 비활성화 (예: 총 39페이지)
+            prevButton.disabled = currentPageNumber === 39;
+            prevButton.style.opacity = currentPageNumber === 39 ? '0.2' : '1';
+            prevButton.style.cursor = currentPageNumber === 39 ? 'default' : 'pointer';
             
             // 마지막 페이지에서는 next 버튼 비활성화
             nextButton.disabled = currentPageNumber === 1;
@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         // prev 버튼 클릭 이벤트
         prevButton.addEventListener('click', () => {
-            if (currentPageNumber < 36) {
+            if (currentPageNumber < 39) {
                 window.location.href = `${currentPageNumber + 1}.html`;
             }
         });
